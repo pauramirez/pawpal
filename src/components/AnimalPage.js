@@ -1,5 +1,5 @@
 'use strict';
-
+/* falta documentacion, se puede desacoplar mas este componente*/
 import React from 'react';
 import { Link } from 'react-router';
 import NotFoundPage from './NotFoundPage';
