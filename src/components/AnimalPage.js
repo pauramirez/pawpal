@@ -1,3 +1,5 @@
+//Camilo Carrillo: Podrian hacer un mejor uso del layout de Bootstrap para que la pagina sea mas amigable con el cliente.
+
 'use strict';
 
 import React from 'react';
