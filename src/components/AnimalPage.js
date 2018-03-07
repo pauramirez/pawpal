@@ -1,3 +1,5 @@
+//Camilo Carrillo: Para el manejo de datos pueden usar mLab y por medio de un fetch llamar lo que necesiten.
+
 'use strict';
 
 import React from 'react';
